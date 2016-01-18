@@ -2,7 +2,9 @@
 
 Steps for creating a simple MarkLogic alerting example in JavaScript.
 
-1. In MarkLogic, create a database named "alert" with the default settings.
+1. In MarkLogic, create a forest named "alert" and attach it to a new
+   database named "alert". Use the default settings for both the forest
+   and the database.
 
 2. Run the following scripts in Query Console (http://localhost:8000/qconsole)
    in the context of the "alert" database:
