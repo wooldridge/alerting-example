@@ -10,7 +10,7 @@ var alert = require("/MarkLogic/alert.xqy");
 var config = alert.makeConfig(
   "http://example.org/alert/test", // URI
   "test-config",                   // name
-  "Config for allerting test",     // description
+  "Config for alerting test",     // description
   // options
   {
     "configOption": "123"
