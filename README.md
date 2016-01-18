@@ -1,4 +1,4 @@
-## alerting-example
+## ml-alerting-example
 
 Steps for creating a simple MarkLogic alerting example in JavaScript.
 
@@ -17,3 +17,7 @@ Steps for creating a simple MarkLogic alerting example in JavaScript.
 
 4. Run `invoke.js` in Query Console to test the alert. Data should display in
    the MarkLogic console.
+
+See the MarkLogic alerting documentation: 
+
+https://docs.marklogic.com/guide/search-dev/alerts
