@@ -7,7 +7,7 @@ Steps for creating a simple MarkLogic alerting example in JavaScript.
    and the database.
 
 2. Run the following scripts in Query Console (http://localhost:8000/qconsole)
-   in the context of the "alert" database:
+   with the "alert" database as the content source:
 
    - `setup/1_config.js` configures the alerting example
    - `setup/2_action.js` defines an action with a module to execute
